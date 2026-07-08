@@ -1,0 +1,2 @@
+git remote add example https://github.com/dylanreins-boop/example-repo.git
+git push -u example main
